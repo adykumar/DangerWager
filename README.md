@@ -1,3 +1,3 @@
 # DangerWager
 
-200 problems / 50 days
+200 Problems / 50 days

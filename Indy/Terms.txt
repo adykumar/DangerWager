@@ -1,0 +1,14 @@
+Period: 50 days from Aug 1, 2019 to Sept 20, 2019 (due Sept 20, 2019 11:50pm)
+200 Algo (Leetcode, EPI or similar) + DS + Design problems
+90 Medium 
+50 Easy
+30 Hard
+20 Design 
+10 Miscellaneous (agreed with consensus)
+If you find an interesting problem (Leetcode or non-Leetcode), add it to the list with a link. Level can be determined by consensus
+Use Git or similar for updation and tracking
+Stakes: 2 TSLA shares per person | Pot : 4 TSLA shares
+Win / Loss Terms:
+All participants succeed - no transaction
+Some participant succeeds - Winner(s) takes the pot (equal split in case of 2 winners)
+All participants fail - 1 TSLA share for each participant donated to recipient of choice

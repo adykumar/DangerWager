@@ -21,3 +21,10 @@ class BinaryTreeNodeWithSubtreeSize:
         self.left = left
         self.right = right
         self.size = size
+
+class BinaryTreeNodeWithLevelNextPtr:
+    def __init__(self, data=None, left=None, right=None, level_next=None):
+        self.data = data
+        self.left = left
+        self.right = right
+        self.level_next = level_next

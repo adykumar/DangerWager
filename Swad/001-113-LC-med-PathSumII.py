@@ -23,6 +23,10 @@ Return:
 ]
 """
 
+"""
+Time- O(n)
+Space- ???
+"""
 
 # Definition for a binary tree node.
 # class TreeNode(object):

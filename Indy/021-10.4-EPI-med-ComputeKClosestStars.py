@@ -6,6 +6,10 @@ Distance can be computed using the Euclidean formula.
 We use a max-heap and add the first K stars. As we add new stars, we eliminate the max from the heap i.e. the star
 farther from earth. After exhausting all coordinates, you end up with the k closest stars.
 Trick: k min elements => Use Max heap! And reverse.
+
+
+LC 973 Medium
+https://leetcode.com/problems/k-closest-points-to-origin/
 """
 
 import math

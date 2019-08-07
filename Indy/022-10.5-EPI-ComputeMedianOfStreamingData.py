@@ -6,6 +6,9 @@ Use two heaps - a max heap for the smaller half and a min heap for the larger ha
 We maintain an invariant to keep the heaps balanced (same number of elements or difference of at max 1)
 Adding a new element can lead to largest element of the min heap move to the max heap or
 smallest element of the max heap move to the min heap
+
+LC 295 Hard
+https://leetcode.com/problems/find-median-from-data-stream/
 """
 
 import heapq
